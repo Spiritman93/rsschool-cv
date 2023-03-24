@@ -15,3 +15,5 @@ I`m junior web-developer. I live in Brest, Belarus. I'm interested programming.
 * PostgreSQL
 * 
 ## Language
+1. Elementary English (A2)
+2. Język polski podstawowy zaawansowany (A2)
