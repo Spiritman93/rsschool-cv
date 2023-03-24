@@ -7,7 +7,11 @@
 **Linkedin:** _in/aliaksandr-yakimchyk-326113265/
 
 ## Profile
+I`m junior web-developer. I live in Brest, Belarus. I'm interested programming.
 
 ## Stack
-
+* Java 8
+* Spring Boot 2
+* PostgreSQL
+* 
 ## Language
