@@ -13,7 +13,7 @@ I`m junior web-developer. I live in Brest, Belarus. I'm interested programming.
 * Java 8
 * Spring Boot 2
 * PostgreSQL
-* 
+
 ## Language
 1. Elementary English (A2)
 2. Język polski podstawowy zaawansowany (A2)
